@@ -16,9 +16,9 @@
 title: 效率与数据分析
 email: lixiaobock@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  1. 提高工作效率的一些想法；
+  2. 数据分析的学习；
+  3. 其他的一些随笔分享。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
