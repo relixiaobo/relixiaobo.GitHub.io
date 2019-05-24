@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**效率专题**：
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+1. 有条有理即是效率；
+2. 场景与工作流；
+3. 知识管理；
+4. 时间管理；
+5. 工具/软件推荐；
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**数据专题**：
 
-
-[jekyll-organization]: https://github.com/jekyll
+1. 数据分析的基础知识；
+2. Python案例；
+3. 数据可视化；
+3. 统计学基础知识；
+  
