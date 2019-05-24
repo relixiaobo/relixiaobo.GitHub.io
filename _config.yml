@@ -16,13 +16,14 @@
 title: 效率与数据
 email: lixiaobock@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  1. 场景与工作流\n
-  2. 知识管理与时间管理\n
-  3. 数据分析基础\n
-  4. 工具控
+  1. 场景与工作流；
+  2. 知识管理与时间管理；
+  3. 数据分析基础；
+  4. 工具控；
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zhuanlan.zhihu.com/c_1074272089820692480" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  relixiaobo
+twitter_username:
 
 # Build settings
 markdown: kramdown
