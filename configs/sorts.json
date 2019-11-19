@@ -1,0 +1,29 @@
+{
+    "": [
+        "_includes", 
+        "_layouts", 
+        "_posts", 
+        "_sass", 
+        "archive", 
+        "images", 
+        "tags"
+    ], 
+    "__positions": {
+        "_sass": 4, 
+        "tags": 7, 
+        "_posts": 3, 
+        "_includes": 1, 
+        "images": 6, 
+        "_layouts": 2, 
+        "archive": 5
+    }, 
+    "__raw_positions": {
+        "_sass": 4, 
+        "tags": 7, 
+        "_posts": 3, 
+        "_includes": 1, 
+        "images": 6, 
+        "_layouts": 2, 
+        "archive": 5
+    }
+}
