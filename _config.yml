@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: 数据与效率
 subtitle:
 description: 砖头
 author: 李晓波
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "数据, 效率, 工具"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
