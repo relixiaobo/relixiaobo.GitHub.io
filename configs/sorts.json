@@ -4,26 +4,38 @@
         "_layouts", 
         "_posts", 
         "_sass", 
-        "archive", 
-        "images", 
+        "about", 
+        "archives", 
+        "assets", 
+        "categories", 
+        "category", 
+        "tag", 
         "tags"
     ], 
     "__positions": {
         "_sass": 4, 
-        "tags": 7, 
+        "category": 9, 
+        "about": 5, 
+        "assets": 7, 
+        "tags": 11, 
         "_posts": 3, 
+        "tag": 10, 
         "_includes": 1, 
-        "images": 6, 
         "_layouts": 2, 
-        "archive": 5
+        "categories": 8, 
+        "archives": 6
     }, 
     "__raw_positions": {
         "_sass": 4, 
-        "tags": 7, 
+        "category": 9, 
+        "about": 5, 
+        "assets": 7, 
+        "tags": 11, 
         "_posts": 3, 
+        "tag": 10, 
         "_includes": 1, 
-        "images": 6, 
         "_layouts": 2, 
-        "archive": 5
+        "categories": 8, 
+        "archives": 6
     }
 }
