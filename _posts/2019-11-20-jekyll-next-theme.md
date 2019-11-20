@@ -37,3 +37,10 @@ if __name__ == "__main__":
     print(getHTMLText(url))
 ```
 
+
+
+---
+
+## 图片测试
+
+![avatar](assets/2019-11-20-jekyll-next-theme/avatar.jpg)
