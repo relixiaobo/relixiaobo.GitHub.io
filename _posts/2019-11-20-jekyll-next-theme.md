@@ -1,9 +1,10 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Jekyll Theme: Next"
 date:   2019-11-20 10:10:50 +0800
 categories:
 tags: 
-description: 
+- Next
+description: Next主题的使用说明
 ---
 
 # test
